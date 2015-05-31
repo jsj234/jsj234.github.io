@@ -3,7 +3,7 @@ layout: default
 title: About Dovelet
 ---
 
-<div class="post">
+<div class="about">
 	<h1 class="pageTitle">About Dovelet</h1>
 	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
 	<p class="intro">알고리즘이란??.</p>
