@@ -17,7 +17,3 @@ navigation:
    url: /about
  - title: Post
    url: /post
- - title: Compiler
-   url: /post
-
-[Compiler]: www.naver.com
