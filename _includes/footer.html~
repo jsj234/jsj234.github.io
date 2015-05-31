@@ -1,6 +1,6 @@
 <div class="footer">
    <div class="container">
-      <p class="copy">&copy; {{ site.time | date: '%Y' }} <a href="https://github.com/lsg154/lsg154.github.io">Class 3, Team 8</a> Made by <a href="https://github.com/lsg154/lsg154.github.io">Team No.3</a></p>
+      <p class="copy">&copy; {{ site.time | date: '%Y' }} <a href="http://brianmaierjr.com">Brian Maier Jr.</a> Powered by <a href="http://jekyllrb.com">Jekyll</a></p>
 
       <div class="footer-links"> 
          <ul class="noList"> 
